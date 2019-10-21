@@ -1,0 +1,12 @@
+[submodule "pybind11"]
+	path = pybind11
+	url = https://github.com/pybind/pybind11.git
+[submodule "nanoflann"]
+	path = nanoflann
+	url = https://github.com/jlblancoc/nanoflann.git
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git
+[submodule "glog"]
+	path = glog
+	url = https://github.com/google/glog.git
