@@ -10,3 +10,6 @@
 [submodule "glog"]
 	path = glog
 	url = https://github.com/google/glog.git
+[submodule "happly"]
+	path = happly
+	url = https://github.com/wang-ps/happly.git
