@@ -19,3 +19,6 @@
 [submodule "LibGP"]
 	path = LibGP
 	url = https://github.com/wang-ps/LibGP.git
+[submodule "stb"]
+	path = stb
+	url = https://github.com/nothings/stb.git
