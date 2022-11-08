@@ -13,3 +13,6 @@
 [submodule "happly"]
 	path = happly
 	url = https://github.com/wang-ps/happly.git
+[submodule "eigen"]
+	path = eigen
+	url = https://gitlab.com/libeigen/eigen.git
